@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "ch11-001",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Currency Concepts",
+    "difficulty": "Basic",
+    "prompt": "What does a direct currency quotation express from a U.S. perspective?",
+    "choices": [
+      "The amount of foreign currency equal to one U.S. dollar",
+      "The amount of U.S. dollars equal to one unit of foreign currency",
+      "The forward rate for delivery in more than two business days",
+      "The average exchange rate for the accounting period"
+    ],
+    "answerIndex": 1,
+    "explanation": "A direct quote states the domestic currency amount, such as U.S. dollars, equivalent to one unit of foreign currency.",
+    "tags": [
+      "direct quotation",
+      "exchange rates"
+    ]
+  },
+  {
+    "id": "ch11-002",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Currency Concepts",
+    "difficulty": "Basic",
+    "prompt": "What does an indirect currency quotation express from a U.S. perspective?",
+    "choices": [
+      "The amount of U.S. dollars equal to one foreign currency unit",
+      "The historical exchange rate on the acquisition date",
+      "The amount of foreign currency equal to one U.S. dollar",
+      "The exchange rate used only for dividends"
+    ],
+    "answerIndex": 2,
+    "explanation": "An indirect quote states the variable amount of foreign currency equivalent to one unit of domestic currency.",
+    "tags": [
+      "indirect quotation",
+      "exchange rates"
+    ]
+  },
+  {
+    "id": "ch11-003",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Currency Concepts",
+    "difficulty": "Basic",
+    "prompt": "Which exchange rate is used for immediate delivery of currencies, usually within two business days?",
+    "choices": [
+      "Forward rate",
+      "Spot rate",
+      "Historical rate",
+      "Average rate"
+    ],
+    "answerIndex": 1,
+    "explanation": "The spot rate is the exchange rate for immediate delivery of the currencies exchanged.",
+    "tags": [
+      "spot rate"
+    ]
+  },
+  {
+    "id": "ch11-004",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Currency Concepts",
+    "difficulty": "Basic",
+    "prompt": "A forward exchange rate is best described as which of the following?",
+    "choices": [
+      "The rate at which a currency traded at the start of the fiscal year",
+      "The exchange rate for future delivery specified in a forward contract",
+      "The weighted average rate for revenues and expenses",
+      "The rate used only for retained earnings"
+    ],
+    "answerIndex": 1,
+    "explanation": "A forward rate is established for future delivery of currencies, usually in a forward exchange contract.",
+    "tags": [
+      "forward rate"
+    ]
+  },
+  {
+    "id": "ch11-005",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Foreign Currency Transactions",
+    "difficulty": "Basic",
+    "prompt": "A foreign currency transaction occurs when a foreign transaction is denominated in what currency?",
+    "choices": [
+      "Only U.S. dollars",
+      "The reporting currency",
+      "A foreign currency",
+      "The parent company's functional currency only"
+    ],
+    "answerIndex": 2,
+    "explanation": "A foreign currency transaction is a foreign transaction whose terms are stated in a foreign currency.",
+    "tags": [
+      "foreign currency transaction"
+    ]
+  },
+  {
+    "id": "ch11-006",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Foreign Currency Transactions",
+    "difficulty": "Basic",
+    "prompt": "If a transaction with a foreign company is denominated in U.S. dollars, what is the usual effect of exchange-rate changes on that transaction?",
+    "choices": [
+      "Exchange gains or losses must always be recorded",
+      "Exchange-rate changes do not affect the transaction",
+      "Only losses are recorded, never gains",
+      "The transaction must be translated through OCI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Changes in exchange rates do not affect transactions denominated in U.S. dollars because the U.S. dollar amount is fixed.",
+    "tags": [
+      "denomination",
+      "exchange gain loss"
+    ]
+  },
+  {
+    "id": "ch11-007",
+    "chapter": "Ch. 11 Part I",
+    "unit": "ASC 830 Transaction Accounting",
+    "difficulty": "Basic",
+    "prompt": "Under ASC 830, how should an asset, liability, revenue, or expense from a foreign currency transaction be initially measured?",
+    "choices": [
+      "At the forward rate on the settlement date",
+      "At the historical rate from the prior year",
+      "By multiplying the foreign currency amount by the spot rate on the transaction date",
+      "By using the average annual exchange rate"
+    ],
+    "answerIndex": 2,
+    "explanation": "At the transaction date, the item is measured in dollars using the current exchange rate, normally the spot rate on the transaction date.",
+    "tags": [
+      "ASC 830",
+      "initial measurement"
+    ]
+  },
+  {
+    "id": "ch11-008",
+    "chapter": "Ch. 11 Part I",
+    "unit": "ASC 830 Transaction Accounting",
+    "difficulty": "Basic",
+    "prompt": "At a balance sheet date, recorded balances denominated in a foreign currency should be adjusted to reflect which rate?",
+    "choices": [
+      "The spot rate on the balance sheet date",
+      "The original transaction-date rate only",
+      "The forward rate on the original transaction date",
+      "The average rate for the year"
+    ],
+    "answerIndex": 0,
+    "explanation": "Foreign-currency-denominated balances are adjusted at the balance sheet date using the current exchange rate, generally the spot rate on that date.",
+    "tags": [
+      "balance sheet adjustment",
+      "current rate"
+    ]
+  },
+  {
+    "id": "ch11-009",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Import Transactions",
+    "difficulty": "Applied",
+    "prompt": "A U.S. company buys goods on account denominated in yen. If the yen spot rate increases before payment, what is the likely effect on the U.S. company?",
+    "choices": [
+      "Exchange gain because the payable is cheaper",
+      "Exchange loss because more dollars are needed to settle the payable",
+      "No gain or loss because payables are never remeasured",
+      "AOCI adjustment only"
+    ],
+    "answerIndex": 1,
+    "explanation": "For an exposed foreign currency liability, an increase in the foreign currency spot rate means the company needs more dollars to settle the payable, creating an exchange loss.",
+    "tags": [
+      "import transaction",
+      "liability"
+    ]
+  },
+  {
+    "id": "ch11-010",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Export Transactions",
+    "difficulty": "Applied",
+    "prompt": "A U.S. company has a foreign-currency accounts receivable. If the foreign currency spot rate decreases before collection, what is the effect?",
+    "choices": [
+      "Exchange gain because the receivable increases in dollar value",
+      "Exchange loss because the receivable decreases in dollar value",
+      "No effect until the next fiscal year",
+      "Deferred revenue"
+    ],
+    "answerIndex": 1,
+    "explanation": "A decrease in the spot rate lowers the dollar value of a foreign-currency receivable, producing an exchange loss.",
+    "tags": [
+      "export transaction",
+      "receivable"
+    ]
+  },
+  {
+    "id": "ch11-011",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Calculation Practice",
+    "difficulty": "Applied",
+    "prompt": "A company purchases inventory for ¥50,000,000 when the spot rate is $0.00750. What dollar amount is initially recorded?",
+    "choices": [
+      "$37,500",
+      "$375,000",
+      "$3,750,000",
+      "$380,000"
+    ],
+    "answerIndex": 1,
+    "explanation": "¥50,000,000 × $0.00750 = $375,000.",
+    "tags": [
+      "calculation",
+      "yen"
+    ]
+  },
+  {
+    "id": "ch11-012",
+    "chapter": "Ch. 11 Part I",
+    "unit": "Calculation Practice",
+    "difficulty": "Applied",
+    "prompt": "A yen payable was initially recorded at $375,000. At year-end, the payable is worth $380,000. What adjustment is needed?",
+    "choices": [
+      "Debit Accounts Payable $5,000 and credit Exchange Gain $5,000",
+      "Debit Exchange Loss $5,000 and credit Accounts Payable $5,000",
+      "Debit Exchange Gain $5,000 and credit Cash $5,000",
+      "No entry is required"
+    ],
+    "answerIndex": 1,
+    "explanation": "The liability increased by $5,000, so the company records an exchange loss and increases accounts payable.",
+    "tags": [
+      "adjusting entry",
+      "import transaction"
+    ]
+  },
+  {
+    "id": "ch11-013",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Derivatives",
+    "difficulty": "Basic",
+    "prompt": "A derivative's value is related to fluctuations in which item?",
+    "choices": [
+      "Only retained earnings",
+      "An underlying price, rate, or other variable",
+      "Only property tax receipts",
+      "Only the reporting currency"
+    ],
+    "answerIndex": 1,
+    "explanation": "A derivative is a financial instrument whose value is tied to an underlying price, rate, or variable.",
+    "tags": [
+      "derivatives",
+      "ASC 815"
+    ]
+  },
+  {
+    "id": "ch11-014",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Derivatives",
+    "difficulty": "Basic",
+    "prompt": "Which item is one of ASC 815's defining characteristics of a derivative?",
+    "choices": [
+      "It must require a large initial investment",
+      "It has one or more underlyings and notional amounts or payment provisions",
+      "It must be used only by governments",
+      "It can never be settled net"
+    ],
+    "answerIndex": 1,
+    "explanation": "ASC 815 identifies underlyings and notional amounts or payment provisions as a defining characteristic of derivatives.",
+    "tags": [
+      "ASC 815",
+      "derivatives"
+    ]
+  },
+  {
+    "id": "ch11-015",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Derivatives",
+    "difficulty": "Basic",
+    "prompt": "Which derivative is standardized so that it can be easily traded in markets?",
+    "choices": [
+      "Forward contract",
+      "Futures contract",
+      "Private-purpose trust",
+      "Encumbrance"
+    ],
+    "answerIndex": 1,
+    "explanation": "A futures contract resembles a forward contract but is standardized for market trading.",
+    "tags": [
+      "futures"
+    ]
+  },
+  {
+    "id": "ch11-016",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Derivatives",
+    "difficulty": "Basic",
+    "prompt": "What distinguishes an option from many other hedging instruments?",
+    "choices": [
+      "Both parties must perform unconditionally",
+      "Only one party must perform while the other has the right, but not the obligation, to perform",
+      "It is never a derivative",
+      "It cannot be used for foreign currency risk"
+    ],
+    "answerIndex": 1,
+    "explanation": "In an option, one party is required to perform, while the other has the ability, but not the obligation, to perform.",
+    "tags": [
+      "options"
+    ]
+  },
+  {
+    "id": "ch11-017",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Hedge Accounting",
+    "difficulty": "Basic",
+    "prompt": "When must formal documentation for a hedge be prepared?",
+    "choices": [
+      "Only at year-end",
+      "Only after settlement",
+      "At hedge inception",
+      "Only if the hedge is ineffective"
+    ],
+    "answerIndex": 2,
+    "explanation": "Formal documentation must be prepared at the inception of the hedge.",
+    "tags": [
+      "documentation",
+      "hedge accounting"
+    ]
+  },
+  {
+    "id": "ch11-018",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Hedging Foreign Currency Risk",
+    "difficulty": "Basic",
+    "prompt": "What is a forward exchange contract?",
+    "choices": [
+      "An agreement to exchange currencies at a specified future date and specified future rate",
+      "A schedule of tax collections for a city",
+      "A fund balance restriction",
+      "A depreciation method"
+    ],
+    "answerIndex": 0,
+    "explanation": "A forward exchange contract sets the future date and future rate for exchanging currencies.",
+    "tags": [
+      "forward exchange contract"
+    ]
+  },
+  {
+    "id": "ch11-019",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Hedge Accounting",
+    "difficulty": "Basic",
+    "prompt": "Which condition is required for a forward exchange contract to qualify for hedge accounting?",
+    "choices": [
+      "The derivative must be properly documented as a hedge",
+      "The derivative must generate a guaranteed gain",
+      "The derivative must be denominated only in U.S. dollars",
+      "The derivative must be settled before year-end"
+    ],
+    "answerIndex": 0,
+    "explanation": "For hedge accounting, the hedge must be properly documented, highly effective, and tied to a fair value or cash flow exposure.",
+    "tags": [
+      "hedge accounting",
+      "ASC 815"
+    ]
+  },
+  {
+    "id": "ch11-020",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Fair Value Hedge",
+    "difficulty": "Basic",
+    "prompt": "Under fair value hedge accounting, where are gains and losses on the hedged item and forward contract generally reported?",
+    "choices": [
+      "Net income",
+      "Accumulated other comprehensive income only",
+      "Fund balance restricted",
+      "Deferred revenue"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fair value hedge gains and losses on the hedged item and forward contract are included in net income.",
+    "tags": [
+      "fair value hedge"
+    ]
+  },
+  {
+    "id": "ch11-021",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Cash Flow Hedge",
+    "difficulty": "Basic",
+    "prompt": "Under cash flow hedge accounting, where are gains and losses on the forward contract generally deferred?",
+    "choices": [
+      "Accounts payable",
+      "Other comprehensive income",
+      "Property tax revenue",
+      "Appropriations"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cash flow hedge gains and losses on the forward contract are deferred in Other Comprehensive Income.",
+    "tags": [
+      "cash flow hedge",
+      "OCI"
+    ]
+  },
+  {
+    "id": "ch11-022",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Hedge Types",
+    "difficulty": "Applied",
+    "prompt": "Which hedge type is used for an anticipated or forecasted foreign currency purchase or sale transaction?",
+    "choices": [
+      "Fair value hedge only",
+      "Cash flow hedge",
+      "Agency fund hedge",
+      "No hedge accounting is allowed"
+    ],
+    "answerIndex": 1,
+    "explanation": "Forecasted foreign currency purchases or sales are generally hedged using cash flow hedge accounting.",
+    "tags": [
+      "forecasted transaction",
+      "cash flow hedge"
+    ]
+  },
+  {
+    "id": "ch11-023",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Fair Value Hedge",
+    "difficulty": "Applied",
+    "prompt": "In a fair value hedge of an exposed foreign currency liability, how does a U.S. firm usually hedge the payable?",
+    "choices": [
+      "It sells domestic currency at the historical rate only",
+      "It negotiates a contract to buy foreign currency at the forward rate",
+      "It records the liability in AOCI and does not remeasure it",
+      "It transfers the payable to a debt service fund"
+    ],
+    "answerIndex": 1,
+    "explanation": "To hedge a foreign currency payable, the firm typically enters a forward contract to buy the foreign currency needed to settle the liability.",
+    "tags": [
+      "exposed liability",
+      "forward contract"
+    ]
+  },
+  {
+    "id": "ch11-024",
+    "chapter": "Ch. 11 Part II",
+    "unit": "Fair Value Hedge",
+    "difficulty": "Applied",
+    "prompt": "Under fair value hedge procedures, how is a broker premium generally treated?",
+    "choices": [
+      "It is separately recognized at inception as prepaid insurance",
+      "It is not recognized separately; effects appear through the forward contract accounting",
+      "It is always recorded directly in AOCI",
+      "It is ignored for both accounting and economics"
+    ],
+    "answerIndex": 1,
+    "explanation": "In the fair value hedge example, the premium is not recognized separately; it is reflected in contract amounts and resulting gains or losses.",
+    "tags": [
+      "broker premium",
+      "fair value hedge"
+    ]
+  },
+  {
+    "id": "ch12-001",
+    "chapter": "Ch. 12",
+    "unit": "Currency Concepts",
+    "difficulty": "Basic",
+    "prompt": "What is local currency?",
+    "choices": [
+      "The currency in which consolidated financial statements are prepared",
+      "The currency used by the country where the subsidiary is located",
+      "The currency of the parent company only",
+      "A currency used only for AOCI"
+    ],
+    "answerIndex": 1,
+    "explanation": "Local currency is the currency used in the country where the subsidiary is located.",
+    "tags": [
+      "local currency"
+    ]
+  },
+  {
+    "id": "ch12-002",
+    "chapter": "Ch. 12",
+    "unit": "Currency Concepts",
+    "difficulty": "Basic",
+    "prompt": "What is reporting currency?",
+    "choices": [
+      "The currency in which consolidated financial statements are prepared",
+      "The currency used by the subsidiary's local country only",
+      "The currency used for nonmonetary assets only",
+      "The currency used only in forward contracts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Reporting currency is the currency used to prepare consolidated financial statements, usually the parent's currency.",
+    "tags": [
+      "reporting currency"
+    ]
+  },
+  {
+    "id": "ch12-003",
+    "chapter": "Ch. 12",
+    "unit": "Currency Concepts",
+    "difficulty": "Basic",
+    "prompt": "Functional currency is best defined as which of the following?",
+    "choices": [
+      "The currency of the primary economic environment in which the subsidiary generates and spends cash",
+      "The currency used only for dividends",
+      "The currency used by the exchange broker",
+      "The currency required for all governments"
+    ],
+    "answerIndex": 0,
+    "explanation": "Functional currency reflects the primary economic environment in which the subsidiary generates and expends cash.",
+    "tags": [
+      "functional currency"
+    ]
+  },
+  {
+    "id": "ch12-004",
+    "chapter": "Ch. 12",
+    "unit": "Functional Currency Factors",
+    "difficulty": "Applied",
+    "prompt": "Which factor suggests the subsidiary's functional currency is likely the local currency?",
+    "choices": [
+      "Sales prices are influenced mainly by local supply and demand",
+      "Financing is acquired from the parent in dollars",
+      "Products are sold mainly in the parent's home country",
+      "Intercompany transactions are numerous"
+    ],
+    "answerIndex": 0,
+    "explanation": "Local supply and demand influencing sales prices suggests the subsidiary operates primarily in its local economic environment.",
+    "tags": [
+      "functional currency factors"
+    ]
+  },
+  {
+    "id": "ch12-005",
+    "chapter": "Ch. 12",
+    "unit": "Current Rate vs Temporal Method",
+    "difficulty": "Basic",
+    "prompt": "When is the current rate method used?",
+    "choices": [
+      "When the subsidiary's functional currency is the local currency",
+      "When the subsidiary's functional currency is the parent's currency",
+      "Only when the country is highly inflationary",
+      "Only for agency funds"
+    ],
+    "answerIndex": 0,
+    "explanation": "The current rate method is used when the subsidiary's functional currency is the local currency.",
+    "tags": [
+      "current rate method"
+    ]
+  },
+  {
+    "id": "ch12-006",
+    "chapter": "Ch. 12",
+    "unit": "Current Rate vs Temporal Method",
+    "difficulty": "Basic",
+    "prompt": "When is the temporal method used?",
+    "choices": [
+      "When the subsidiary's functional currency is the parent's currency",
+      "Whenever local currency equals reporting currency",
+      "Only for dividends",
+      "Only for governmental funds"
+    ],
+    "answerIndex": 0,
+    "explanation": "The temporal method is used when the subsidiary's functional currency is the same as the parent's reporting currency.",
+    "tags": [
+      "temporal method"
+    ]
+  },
+  {
+    "id": "ch12-007",
+    "chapter": "Ch. 12",
+    "unit": "Current Rate Method",
+    "difficulty": "Basic",
+    "prompt": "Under the current rate method, where is the net translation gain or loss reported?",
+    "choices": [
+      "Current net income",
+      "Accumulated Other Comprehensive Income",
+      "Property tax revenue",
+      "Accounts payable"
+    ],
+    "answerIndex": 1,
+    "explanation": "The current rate method excludes the translation adjustment from income and reports it in AOCI.",
+    "tags": [
+      "current rate method",
+      "AOCI"
+    ]
+  },
+  {
+    "id": "ch12-008",
+    "chapter": "Ch. 12",
+    "unit": "Temporal Method",
+    "difficulty": "Basic",
+    "prompt": "Under the temporal method, where is the exchange gain or loss from remeasurement included?",
+    "choices": [
+      "Consolidated net income",
+      "AOCI only",
+      "Fund balance committed",
+      "Deferred revenue"
+    ],
+    "answerIndex": 0,
+    "explanation": "Under the temporal method, remeasurement gains and losses are included in consolidated net income.",
+    "tags": [
+      "temporal method",
+      "remeasurement"
+    ]
+  },
+  {
+    "id": "ch12-009",
+    "chapter": "Ch. 12",
+    "unit": "Current Rate Method",
+    "difficulty": "Basic",
+    "prompt": "Under the current rate method, all assets and liabilities are translated at which rate?",
+    "choices": [
+      "Average rate",
+      "Historical rate",
+      "Current rate",
+      "Dividend rate"
+    ],
+    "answerIndex": 2,
+    "explanation": "All assets and liabilities are translated at the current rate under the current rate method.",
+    "tags": [
+      "current rate method",
+      "translation rates"
+    ]
+  },
+  {
+    "id": "ch12-010",
+    "chapter": "Ch. 12",
+    "unit": "Current Rate Method",
+    "difficulty": "Basic",
+    "prompt": "Under the current rate method, revenues and expenses are generally translated at which rate?",
+    "choices": [
+      "Current rate",
+      "Average rate",
+      "Historical acquisition rate",
+      "Forward rate"
+    ],
+    "answerIndex": 1,
+    "explanation": "Revenues and expenses are generally translated at average rates under the current rate method.",
+    "tags": [
+      "average rate"
+    ]
+  },
+  {
+    "id": "ch12-011",
+    "chapter": "Ch. 12",
+    "unit": "Current Rate Method",
+    "difficulty": "Basic",
+    "prompt": "Under the current rate method, dividends declared are translated at which rate?",
+    "choices": [
+      "Historical rate",
+      "Current rate",
+      "Forward rate",
+      "No rate because dividends are ignored"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dividends declared are translated at the historical rate under the current rate method.",
+    "tags": [
+      "dividends",
+      "historical rate"
+    ]
+  },
+  {
+    "id": "ch12-012",
+    "chapter": "Ch. 12",
+    "unit": "Current Rate Method",
+    "difficulty": "Applied",
+    "prompt": "Under the current rate method, retained earnings is handled how?",
+    "choices": [
+      "Translated at the current rate each year",
+      "Not directly translated; it is calculated from beginning translated retained earnings, translated net income, and translated dividends",
+      "Always translated at the forward rate",
+      "Ignored in consolidation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Retained earnings is not translated directly; it is built from prior translated balances, net income, and dividends.",
+    "tags": [
+      "retained earnings",
+      "current rate method"
+    ]
+  },
+  {
+    "id": "ch12-013",
+    "chapter": "Ch. 12",
+    "unit": "Temporal Method",
+    "difficulty": "Basic",
+    "prompt": "Under the temporal method, which assets and liabilities are remeasured at the current rate?",
+    "choices": [
+      "Monetary assets and liabilities",
+      "All nonmonetary assets",
+      "Common stock and APIC",
+      "Only inventory"
+    ],
+    "answerIndex": 0,
+    "explanation": "Monetary assets and liabilities, such as cash, receivables, and payables, are remeasured at the current rate.",
+    "tags": [
+      "monetary items",
+      "temporal method"
+    ]
+  },
+  {
+    "id": "ch12-014",
+    "chapter": "Ch. 12",
+    "unit": "Temporal Method",
+    "difficulty": "Basic",
+    "prompt": "Under the temporal method, nonmonetary assets carried at past prices are generally remeasured at which rate?",
+    "choices": [
+      "Current rate",
+      "Average rate",
+      "Historical rate",
+      "Forward rate"
+    ],
+    "answerIndex": 2,
+    "explanation": "Nonmonetary items carried at past prices, such as inventory or PPE, are generally remeasured at historical rates.",
+    "tags": [
+      "nonmonetary items",
+      "historical rate"
+    ]
+  },
+  {
+    "id": "ch12-015",
+    "chapter": "Ch. 12",
+    "unit": "Temporal Method",
+    "difficulty": "Applied",
+    "prompt": "Under the temporal method, cost of goods sold is generally determined by doing what?",
+    "choices": [
+      "Translating the total COGS number at the current rate",
+      "Remeasuring its components: beginning inventory, purchases, and ending inventory",
+      "Using only the dividend rate",
+      "Ignoring inventory completely"
+    ],
+    "answerIndex": 1,
+    "explanation": "COGS is calculated by remeasuring its components rather than simply translating the total COGS balance.",
+    "tags": [
+      "COGS",
+      "temporal method"
+    ]
+  },
+  {
+    "id": "ch12-016",
+    "chapter": "Ch. 12",
+    "unit": "Highly Inflationary Economies",
+    "difficulty": "Basic",
+    "prompt": "Under ASC 830, a foreign economy is highly inflationary if cumulative inflation exceeds what threshold over a three-year period?",
+    "choices": [
+      "10%",
+      "50%",
+      "100%",
+      "300%"
+    ],
+    "answerIndex": 2,
+    "explanation": "A country is considered highly inflationary when cumulative inflation exceeds 100% over a three-year period.",
+    "tags": [
+      "highly inflationary",
+      "ASC 830"
+    ]
+  },
+  {
+    "id": "ch12-017",
+    "chapter": "Ch. 12",
+    "unit": "Highly Inflationary Economies",
+    "difficulty": "Applied",
+    "prompt": "If a subsidiary operates in a highly inflationary economy, which method should generally be used?",
+    "choices": [
+      "Current rate method, with all gains in AOCI",
+      "Temporal method, with the parent's reporting currency treated as functional currency",
+      "No translation or remeasurement is needed",
+      "Modified accrual method"
+    ],
+    "answerIndex": 1,
+    "explanation": "For highly inflationary economies, the statements are remeasured under the temporal method and the parent’s reporting currency is treated as the functional currency.",
+    "tags": [
+      "highly inflationary",
+      "temporal method"
+    ]
+  },
+  {
+    "id": "ch16-001",
+    "chapter": "Ch. 16",
+    "unit": "Fund Accounting Basics",
+    "difficulty": "Basic",
+    "prompt": "Under GASB principles, what is the basic accounting unit for governmental units?",
+    "choices": [
+      "A derivative",
+      "A fund",
+      "A forward contract",
+      "A subsidiary"
+    ],
+    "answerIndex": 1,
+    "explanation": "For state and local governments, accounting is organized around funds.",
+    "tags": [
+      "GASB",
+      "fund accounting"
+    ]
+  },
+  {
+    "id": "ch16-002",
+    "chapter": "Ch. 16",
+    "unit": "Fund Accounting Basics",
+    "difficulty": "Basic",
+    "prompt": "A fund is both a fiscal and accounting entity used for what purpose?",
+    "choices": [
+      "To hide restricted resources from financial statements",
+      "To account for resources segregated for specific purposes or restrictions",
+      "To avoid preparing journals and ledgers",
+      "To convert foreign currency to dollars"
+    ],
+    "answerIndex": 1,
+    "explanation": "A fund accounts for resources segregated for specific purposes, often due to legal, donor, or grantor restrictions.",
+    "tags": [
+      "fund definition"
+    ]
+  },
+  {
+    "id": "ch16-003",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Accountability",
+    "difficulty": "Basic",
+    "prompt": "What concept is described as the cornerstone of all financial reporting in government?",
+    "choices": [
+      "Speculation",
+      "Accountability",
+      "Forward contracting",
+      "Historical cost"
+    ],
+    "answerIndex": 1,
+    "explanation": "Governmental accounting emphasizes accountability to citizens for raising and spending public money.",
+    "tags": [
+      "accountability"
+    ]
+  },
+  {
+    "id": "ch16-004",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Accountability",
+    "difficulty": "Basic",
+    "prompt": "Interperiod equity helps users assess which question?",
+    "choices": [
+      "Whether current-year revenues are sufficient to pay for current-year services",
+      "Whether a forward contract is highly effective",
+      "Whether a subsidiary uses local labor",
+      "Whether inventory should be translated at average rates"
+    ],
+    "answerIndex": 0,
+    "explanation": "Interperiod equity focuses on whether current-year revenues cover the cost of services provided that year, rather than shifting burdens to future taxpayers.",
+    "tags": [
+      "interperiod equity"
+    ]
+  },
+  {
+    "id": "ch16-005",
+    "chapter": "Ch. 16",
+    "unit": "Fund Financial Statements",
+    "difficulty": "Basic",
+    "prompt": "Which item is an objective of fund financial statements for state and local governments?",
+    "choices": [
+      "Compare actual results with the legally adopted budget",
+      "Measure derivative fair values only",
+      "Translate foreign subsidiary statements",
+      "Calculate exchange gain or loss from remeasurement"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fund financial statements help compare actual financial results with legally adopted budgets and assess compliance.",
+    "tags": [
+      "fund financial statements"
+    ]
+  },
+  {
+    "id": "ch16-006",
+    "chapter": "Ch. 16",
+    "unit": "Fund Financial Statements",
+    "difficulty": "Basic",
+    "prompt": "Which limitation applies to governmental fund financial statements?",
+    "choices": [
+      "They include all capital assets and long-term liabilities",
+      "They exclude long-term liabilities and noncurrent assets",
+      "They are prepared only under full accrual",
+      "They never include current liabilities"
+    ],
+    "answerIndex": 1,
+    "explanation": "Governmental fund statements have a short-term focus and generally exclude capital assets and long-term liabilities.",
+    "tags": [
+      "limitations",
+      "governmental funds"
+    ]
+  },
+  {
+    "id": "ch16-007",
+    "chapter": "Ch. 16",
+    "unit": "Fund Categories",
+    "difficulty": "Basic",
+    "prompt": "What are the three broad categories of funds used by state and local governments?",
+    "choices": [
+      "Current, average, and historical funds",
+      "Governmental, proprietary, and fiduciary funds",
+      "Operating, investing, and financing funds",
+      "Local, reporting, and functional funds"
+    ],
+    "answerIndex": 1,
+    "explanation": "The GASB fund taxonomy includes governmental, proprietary, and fiduciary funds.",
+    "tags": [
+      "fund categories"
+    ]
+  },
+  {
+    "id": "ch16-008",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Funds",
+    "difficulty": "Basic",
+    "prompt": "Which list contains only governmental funds?",
+    "choices": [
+      "General, special revenue, capital projects, debt service, permanent",
+      "Enterprise, internal service, pension trust, agency",
+      "General, enterprise, agency, pension trust, investment trust",
+      "Current, temporal, fair value, cash flow"
+    ],
+    "answerIndex": 0,
+    "explanation": "The five governmental funds are general, special revenue, capital projects, debt service, and permanent funds.",
+    "tags": [
+      "governmental funds"
+    ]
+  },
+  {
+    "id": "ch16-009",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Funds",
+    "difficulty": "Basic",
+    "prompt": "What is the General Fund?",
+    "choices": [
+      "The primary operating fund used for most governmental functions",
+      "A fund used only for pension benefits",
+      "A fund that accounts only for external investment pools",
+      "A fund used exclusively for future delivery of currencies"
+    ],
+    "answerIndex": 0,
+    "explanation": "The General Fund is the primary operating fund for most state and local government functions.",
+    "tags": [
+      "general fund"
+    ]
+  },
+  {
+    "id": "ch16-010",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Fund Equation",
+    "difficulty": "Basic",
+    "prompt": "What is the governmental fund accounting equation shown in the notes?",
+    "choices": [
+      "Assets + Deferred Outflows = Liabilities + Deferred Inflows + Fund Balance",
+      "Assets - Liabilities = Net Income",
+      "Assets + Liabilities = Fund Balance",
+      "Revenues - Expenditures = Cash"
+    ],
+    "answerIndex": 0,
+    "explanation": "Governmental fund balance sheets use assets plus deferred outflows equal liabilities plus deferred inflows plus fund balance.",
+    "tags": [
+      "accounting equation"
+    ]
+  },
+  {
+    "id": "ch16-011",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Statements",
+    "difficulty": "Basic",
+    "prompt": "In a governmental fund statement of revenues, expenditures, and changes in fund balance, revenues are typically classified by what?",
+    "choices": [
+      "Source",
+      "Function",
+      "Maturity date",
+      "Forward rate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Revenues are classified by source, such as property taxes, licenses, and fees.",
+    "tags": [
+      "revenues",
+      "classification"
+    ]
+  },
+  {
+    "id": "ch16-012",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Statements",
+    "difficulty": "Basic",
+    "prompt": "In a governmental fund statement, expenditures are typically classified by what?",
+    "choices": [
+      "Source",
+      "Function",
+      "Exchange rate",
+      "Subsidiary location"
+    ],
+    "answerIndex": 1,
+    "explanation": "Expenditures are classified by function, such as public safety, public works, or recreation.",
+    "tags": [
+      "expenditures",
+      "classification"
+    ]
+  },
+  {
+    "id": "ch16-013",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Funds",
+    "difficulty": "Basic",
+    "prompt": "A Special Revenue Fund is used to account for what?",
+    "choices": [
+      "Specific revenue sources created by law and expended for specific purposes",
+      "Internal services billed to other departments",
+      "Resources held for private organizations only",
+      "Translation adjustments in AOCI"
+    ],
+    "answerIndex": 0,
+    "explanation": "Special Revenue Funds account for specific revenue sources legally or administratively restricted for specific purposes.",
+    "tags": [
+      "special revenue fund"
+    ]
+  },
+  {
+    "id": "ch16-014",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Funds",
+    "difficulty": "Basic",
+    "prompt": "A Capital Projects Fund is used for what purpose?",
+    "choices": [
+      "Construction or acquisition of major capital facilities",
+      "Day-to-day operation of a sanitation utility for customers",
+      "Assets held only as an agent",
+      "Remeasuring foreign-currency inventory"
+    ],
+    "answerIndex": 0,
+    "explanation": "Capital Projects Funds account for construction or acquisition of major capital facilities such as buildings and highways.",
+    "tags": [
+      "capital projects fund"
+    ]
+  },
+  {
+    "id": "ch16-015",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Funds",
+    "difficulty": "Basic",
+    "prompt": "A Debt Service Fund is used to record what?",
+    "choices": [
+      "Payments of principal and interest on long-term debt",
+      "All general government salaries",
+      "Foreign currency sales transactions",
+      "Only pension investment income"
+    ],
+    "answerIndex": 0,
+    "explanation": "Debt Service Funds record payments of principal and interest on long-term debt.",
+    "tags": [
+      "debt service fund"
+    ]
+  },
+  {
+    "id": "ch16-016",
+    "chapter": "Ch. 16",
+    "unit": "Governmental Funds",
+    "difficulty": "Basic",
+    "prompt": "A Permanent Fund is used when trust principal must remain intact and earnings are used for what purpose?",
+    "choices": [
+      "A public purpose benefiting the general government or citizens",
+      "A private purpose benefiting only outside individuals",
+      "A forward contract settlement",
+      "A current-year payroll liability only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Permanent Funds hold resources where principal remains intact and earnings support a public purpose.",
+    "tags": [
+      "permanent fund"
+    ]
+  },
+  {
+    "id": "ch16-017",
+    "chapter": "Ch. 16",
+    "unit": "Proprietary Funds",
+    "difficulty": "Basic",
+    "prompt": "What are the two types of proprietary funds?",
+    "choices": [
+      "Enterprise funds and internal service funds",
+      "General funds and debt service funds",
+      "Agency funds and pension trust funds",
+      "Capital projects funds and permanent funds"
+    ],
+    "answerIndex": 0,
+    "explanation": "The two proprietary funds are Enterprise Funds and Internal Service Funds.",
+    "tags": [
+      "proprietary funds"
+    ]
+  },
+  {
+    "id": "ch16-018",
+    "chapter": "Ch. 16",
+    "unit": "Fiduciary Funds",
+    "difficulty": "Basic",
+    "prompt": "Which list contains the four types of fiduciary funds in the notes?",
+    "choices": [
+      "Agency, pension trust, private-purpose trust, investment trust",
+      "General, special revenue, debt service, permanent",
+      "Enterprise, internal service, capital projects, general",
+      "Current, average, historical, forward"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fiduciary funds include agency, pension trust, private-purpose trust, and investment trust funds.",
+    "tags": [
+      "fiduciary funds"
+    ]
+  },
+  {
+    "id": "ch16-019",
+    "chapter": "Ch. 16",
+    "unit": "Financial Statements",
+    "difficulty": "Basic",
+    "prompt": "Which financial statements are required for all five governmental funds?",
+    "choices": [
+      "Balance Sheet and Statement of Revenues, Expenditures, and Changes in Fund Balance",
+      "Statement of Cash Flows only",
+      "Income Statement and Statement of Retained Earnings only",
+      "Translation Worksheet and Consolidation Worksheet"
+    ],
+    "answerIndex": 0,
+    "explanation": "All governmental funds require a balance sheet and a statement of revenues, expenditures, and changes in fund balance.",
+    "tags": [
+      "governmental statements"
+    ]
+  },
+  {
+    "id": "ch16-020",
+    "chapter": "Ch. 16",
+    "unit": "Modified Accrual",
+    "difficulty": "Basic",
+    "prompt": "Under modified accrual, revenues are recognized when they are what?",
+    "choices": [
+      "Measurable and available to finance current-period expenditures",
+      "Earned and collectible under full accrual only",
+      "Received in any future period, regardless of availability",
+      "Translated at the current rate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Modified accrual recognizes revenues when they are measurable and available for current-period spending.",
+    "tags": [
+      "modified accrual",
+      "revenues"
+    ]
+  },
+  {
+    "id": "ch16-021",
+    "chapter": "Ch. 16",
+    "unit": "Modified Accrual",
+    "difficulty": "Applied",
+    "prompt": "Under modified accrual, expenditure-driven grants are recorded as deferred revenue until what happens?",
+    "choices": [
+      "Eligibility requirements are satisfied through qualifying expenditures",
+      "The government issues a forward contract",
+      "A pension trust fund is closed",
+      "The related capital asset is depreciated"
+    ],
+    "answerIndex": 0,
+    "explanation": "Grant proceeds are deferred until the eligibility requirements, such as incurring qualifying expenditures, have been met.",
+    "tags": [
+      "grants",
+      "deferred revenue"
+    ]
+  },
+  {
+    "id": "ch16-022",
+    "chapter": "Ch. 16",
+    "unit": "Modified Accrual",
+    "difficulty": "Applied",
+    "prompt": "Under GASB's available criterion for property taxes, taxes not collected within 60 days after fiscal year-end are usually treated how?",
+    "choices": [
+      "Deferred as revenue",
+      "Recorded as sales revenue immediately",
+      "Reported as depreciation expense",
+      "Moved to AOCI"
+    ],
+    "answerIndex": 0,
+    "explanation": "Property tax revenue not collected within the availability period is deferred under the available criterion.",
+    "tags": [
+      "property taxes",
+      "available criterion"
+    ]
+  },
+  {
+    "id": "ch16-023",
+    "chapter": "Ch. 16",
+    "unit": "Modified Accrual",
+    "difficulty": "Basic",
+    "prompt": "Which rule of thumb applies to expenditures in governmental funds?",
+    "choices": [
+      "Recognize expenditures when assets are acquired or current liabilities are incurred",
+      "Recognize expenditures only when depreciation is recorded",
+      "Recognize expenditures only at consolidation",
+      "Never recognize expenditures for current liabilities"
+    ],
+    "answerIndex": 0,
+    "explanation": "Governmental fund expenditures are tied to short-term outflows and recognized when assets are acquired or current liabilities are incurred.",
+    "tags": [
+      "expenditure recognition"
+    ]
+  },
+  {
+    "id": "ch16-024",
+    "chapter": "Ch. 16",
+    "unit": "Modified Accrual",
+    "difficulty": "Applied",
+    "prompt": "How are capital assets treated in governmental funds under modified accrual?",
+    "choices": [
+      "Capitalized and depreciated in the governmental fund",
+      "Reported as expenditures when acquired; no depreciation is recorded in the governmental fund",
+      "Ignored completely in all statements",
+      "Recorded only as AOCI"
+    ],
+    "answerIndex": 1,
+    "explanation": "In governmental funds, the cost of capital assets is reported as an expenditure when acquired, and depreciation is not recorded in the fund.",
+    "tags": [
+      "capital assets",
+      "modified accrual"
+    ]
+  },
+  {
+    "id": "ch16-025",
+    "chapter": "Ch. 16",
+    "unit": "Interfund Transfers",
+    "difficulty": "Basic",
+    "prompt": "Operating transfers between funds are generally recorded as what?",
+    "choices": [
+      "Other financing sources and other financing uses, not revenues and expenditures",
+      "Sales revenue and salary expense",
+      "Exchange gains and exchange losses",
+      "Deferred inflows and deferred outflows only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Operating transfers are recurring shifts of resources between funds and are excluded from revenues and expenditures.",
+    "tags": [
+      "interfund transfers",
+      "OFS",
+      "OFU"
+    ]
+  },
+  {
+    "id": "ch16-026",
+    "chapter": "Ch. 16 Part II",
+    "unit": "General Fund Entries",
+    "difficulty": "Applied",
+    "prompt": "When a government adopts a budget with estimated revenues greater than appropriations, what happens to fund balance in the budgetary entry?",
+    "choices": [
+      "Fund Balance is credited for the excess",
+      "Fund Balance is debited for the excess",
+      "Cash is credited for the excess",
+      "Encumbrances are credited for the excess"
+    ],
+    "answerIndex": 0,
+    "explanation": "If estimated revenues exceed appropriations, the budgetary entry credits Fund Balance for the expected surplus.",
+    "tags": [
+      "budgetary accounting"
+    ]
+  },
+  {
+    "id": "ch16-027",
+    "chapter": "Ch. 16 Part II",
+    "unit": "Encumbrances",
+    "difficulty": "Basic",
+    "prompt": "What is the usual entry to record an encumbrance for a purchase order?",
+    "choices": [
+      "Debit Encumbrances; credit Reserve for Encumbrances",
+      "Debit Expenditures; credit Cash",
+      "Debit Cash; credit Revenue",
+      "Debit Fund Balance; credit Estimated Revenues"
+    ],
+    "answerIndex": 0,
+    "explanation": "Encumbrances reserve budgetary authority by debiting Encumbrances and crediting Reserve for Encumbrances.",
+    "tags": [
+      "encumbrances"
+    ]
+  },
+  {
+    "id": "ch16-028",
+    "chapter": "Ch. 16 Part II",
+    "unit": "Encumbrances",
+    "difficulty": "Applied",
+    "prompt": "When goods originally encumbered are received and the voucher is approved, what must happen to the encumbrance?",
+    "choices": [
+      "It should be reversed, and an expenditure/payable should be recorded",
+      "It should remain open forever",
+      "It should be recorded as revenue",
+      "It should be translated at the current exchange rate"
+    ],
+    "answerIndex": 0,
+    "explanation": "The encumbrance is reversed when the actual expenditure and liability are recorded.",
+    "tags": [
+      "encumbrances",
+      "vouchers"
+    ]
+  },
+  {
+    "id": "ch17-001",
+    "chapter": "Ch. 17 Part I",
+    "unit": "Capital Projects Funds",
+    "difficulty": "Basic",
+    "prompt": "Capital Projects Funds account for acquisition of major capital facilities that are not financed through what?",
+    "choices": [
+      "Appropriation in the General Fund",
+      "Bond proceeds",
+      "State and federal grants",
+      "Taxes"
+    ],
+    "answerIndex": 0,
+    "explanation": "CPFs are used for major capital facilities not financed through appropriation in the General Fund.",
+    "tags": [
+      "capital projects fund"
+    ]
+  },
+  {
+    "id": "ch17-002",
+    "chapter": "Ch. 17 Part I",
+    "unit": "Capital Projects Funds",
+    "difficulty": "Basic",
+    "prompt": "In a CPF, proceeds from debt issued to finance capital expenditures are recorded where?",
+    "choices": [
+      "In the Capital Projects Fund",
+      "Only in a pension trust fund",
+      "Only in AOCI",
+      "Only in retained earnings"
+    ],
+    "answerIndex": 0,
+    "explanation": "Debt proceeds used to finance construction or acquisition are recorded in the Capital Projects Fund.",
+    "tags": [
+      "CPF",
+      "bond proceeds"
+    ]
+  },
+  {
+    "id": "ch17-003",
+    "chapter": "Ch. 17 Part I",
+    "unit": "Debt Service Funds",
+    "difficulty": "Applied",
+    "prompt": "When is interest due on bonds accrued in the Debt Service Fund?",
+    "choices": [
+      "Always at every month-end",
+      "Only if resources have been provided for payment",
+      "Never under any circumstances",
+      "Only if it is a revenue bond"
+    ],
+    "answerIndex": 1,
+    "explanation": "Interest is not accrued in the DSF unless resources have been provided for payment, such as a transfer from the General Fund in the same period.",
+    "tags": [
+      "DSF",
+      "interest"
+    ]
+  },
+  {
+    "id": "ch17-004",
+    "chapter": "Ch. 17 Part I",
+    "unit": "Capital Projects Funds",
+    "difficulty": "Applied",
+    "prompt": "If bonds are issued at a premium to finance a capital project, what does the Chapter 17 illustration do with the premium?",
+    "choices": [
+      "Transfers the premium from the CPF to the DSF",
+      "Records the premium as depreciation expense",
+      "Ignores it completely",
+      "Records it as an exchange gain"
+    ],
+    "answerIndex": 0,
+    "explanation": "The illustration transfers the bond premium from the Capital Projects Fund to the Debt Service Fund.",
+    "tags": [
+      "bond premium",
+      "CPF",
+      "DSF"
+    ]
+  },
+  {
+    "id": "ch17-005",
+    "chapter": "Ch. 17 Part I",
+    "unit": "Capital Projects Funds",
+    "difficulty": "Applied",
+    "prompt": "For an expenditure-driven capital grant, when is revenue recognized in the CPF?",
+    "choices": [
+      "When qualifying expenditures are incurred",
+      "Immediately when cash is received, no matter what",
+      "Only when the building is depreciated",
+      "Only after the bond matures"
+    ],
+    "answerIndex": 0,
+    "explanation": "Expenditure-driven grants are initially deferred and recognized as revenue when qualifying expenditures occur.",
+    "tags": [
+      "grant revenue",
+      "CPF"
+    ]
+  },
+  {
+    "id": "ch17-006",
+    "chapter": "Ch. 17 Part I",
+    "unit": "Debt Service Funds",
+    "difficulty": "Applied",
+    "prompt": "In a Debt Service Fund, payment of bond principal is recorded as what?",
+    "choices": [
+      "Expenditures — principal retirement",
+      "Reduction of capital assets",
+      "Depreciation expense",
+      "AOCI adjustment"
+    ],
+    "answerIndex": 0,
+    "explanation": "Debt Service Funds record principal payments as expenditures for principal retirement.",
+    "tags": [
+      "DSF",
+      "principal retirement"
+    ]
+  },
+  {
+    "id": "ch17-007",
+    "chapter": "Ch. 17 Part II",
+    "unit": "Proprietary Funds",
+    "difficulty": "Basic",
+    "prompt": "Which accounting basis do proprietary funds use?",
+    "choices": [
+      "Full accrual accounting",
+      "Modified accrual only",
+      "Cash basis only",
+      "Temporal method"
+    ],
+    "answerIndex": 0,
+    "explanation": "Proprietary funds use full accrual accounting, including capitalization and depreciation.",
+    "tags": [
+      "proprietary funds",
+      "full accrual"
+    ]
+  },
+  {
+    "id": "ch17-008",
+    "chapter": "Ch. 17 Part II",
+    "unit": "Proprietary Funds",
+    "difficulty": "Basic",
+    "prompt": "Which statement is included in proprietary fund financial statements?",
+    "choices": [
+      "Statement of Net Position",
+      "Statement of Budgetary Comparison only",
+      "Translation Worksheet only",
+      "Statement of Encumbrances only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Proprietary fund statements include the Statement of Net Position, Statement of Revenues, Expenses, and Changes in Fund Net Position, and Statement of Cash Flows.",
+    "tags": [
+      "proprietary statements"
+    ]
+  },
+  {
+    "id": "ch17-009",
+    "chapter": "Ch. 17 Part II",
+    "unit": "Enterprise Funds",
+    "difficulty": "Basic",
+    "prompt": "Enterprise Funds provide goods and services to whom?",
+    "choices": [
+      "Citizens and customers outside the government on a user-charge basis",
+      "Only other departments within the same government",
+      "Only private-purpose trust beneficiaries",
+      "Only exchange brokers"
+    ],
+    "answerIndex": 0,
+    "explanation": "Enterprise Funds serve external citizens or customers and are financed through user charges.",
+    "tags": [
+      "enterprise funds"
+    ]
+  },
+  {
+    "id": "ch17-010",
+    "chapter": "Ch. 17 Part II",
+    "unit": "Internal Service Funds",
+    "difficulty": "Basic",
+    "prompt": "Internal Service Funds provide services primarily to whom?",
+    "choices": [
+      "Other departments and agencies within the same government",
+      "Foreign subsidiaries",
+      "Outside taxpayers only",
+      "Only bondholders"
+    ],
+    "answerIndex": 0,
+    "explanation": "Internal Service Funds provide goods or services to internal governmental departments or agencies.",
+    "tags": [
+      "internal service funds"
+    ]
+  },
+  {
+    "id": "ch17-011",
+    "chapter": "Ch. 17 Part II",
+    "unit": "Internal Service Funds",
+    "difficulty": "Applied",
+    "prompt": "Because Internal Service Funds support other governmental funds, they are included under which activities in proprietary fund financial statements?",
+    "choices": [
+      "Governmental Activities",
+      "Business-type Activities only",
+      "Fiduciary Activities only",
+      "AOCI Activities"
+    ],
+    "answerIndex": 0,
+    "explanation": "Internal Service Funds are included under Governmental Activities because they serve other governmental funds.",
+    "tags": [
+      "internal service funds",
+      "governmental activities"
+    ]
+  },
+  {
+    "id": "ch17-012",
+    "chapter": "Ch. 17 Part III",
+    "unit": "Fiduciary Funds",
+    "difficulty": "Basic",
+    "prompt": "Fiduciary Funds are established to account for assets held by a government in what capacity?",
+    "choices": [
+      "Agent or trustee",
+      "Seller of foreign currency",
+      "Owner of unrestricted equity",
+      "Parent company in consolidation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fiduciary Funds account for assets received and held by the government as agent or trustee.",
+    "tags": [
+      "fiduciary funds"
+    ]
+  },
+  {
+    "id": "ch17-013",
+    "chapter": "Ch. 17 Part III",
+    "unit": "Agency Funds",
+    "difficulty": "Basic",
+    "prompt": "Agency funds are also called what?",
+    "choices": [
+      "Pass-through or custodial funds",
+      "Enterprise funds",
+      "Permanent funds",
+      "Temporal funds"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agency funds are commonly described as pass-through or custodial funds.",
+    "tags": [
+      "agency funds"
+    ]
+  },
+  {
+    "id": "ch17-014",
+    "chapter": "Ch. 17 Part III",
+    "unit": "Agency Funds",
+    "difficulty": "Basic",
+    "prompt": "Which equation describes an Agency Fund?",
+    "choices": [
+      "Assets = Liabilities",
+      "Assets + Deferred Outflows = Liabilities + Deferred Inflows + Fund Balance",
+      "Assets - Liabilities = Net Position with unrestricted earnings",
+      "Revenues - Expenses = Net Income"
+    ],
+    "answerIndex": 0,
+    "explanation": "Agency funds are custodial: assets equal liabilities, with no fund balance, revenues, or expenditures.",
+    "tags": [
+      "agency funds",
+      "accounting equation"
+    ]
+  },
+  {
+    "id": "ch17-015",
+    "chapter": "Ch. 17 Part III",
+    "unit": "Private-Purpose Trust Funds",
+    "difficulty": "Basic",
+    "prompt": "A Private-Purpose Trust Fund holds resources for whose benefit?",
+    "choices": [
+      "Parties outside the governmental entity",
+      "The general public only",
+      "Only internal service departments",
+      "Only the parent company"
+    ],
+    "answerIndex": 0,
+    "explanation": "Private-purpose trust fund resources are held for individuals, private organizations, businesses, or other governments outside the governmental entity.",
+    "tags": [
+      "private-purpose trust fund"
+    ]
+  },
+  {
+    "id": "ch17-016",
+    "chapter": "Ch. 17 Part III",
+    "unit": "Investment Trust Funds",
+    "difficulty": "Basic",
+    "prompt": "Investment Trust Funds are used for what type of arrangement?",
+    "choices": [
+      "External investment pools with assets held for external governments",
+      "Only city payroll taxes",
+      "Forward contracts for foreign currency speculation",
+      "Internal depreciation of equipment"
+    ],
+    "answerIndex": 0,
+    "explanation": "Investment Trust Funds account for external investment pools where funds are pooled from multiple governmental units.",
+    "tags": [
+      "investment trust funds"
+    ]
+  },
+  {
+    "id": "ch17-017",
+    "chapter": "Ch. 17 Part III",
+    "unit": "Pension Trust Funds",
+    "difficulty": "Basic",
+    "prompt": "Pension Trust Funds generally apply which basis and measurement focus?",
+    "choices": [
+      "Full accrual basis and economic resources measurement focus",
+      "Modified accrual and current financial resources only",
+      "Cash basis and no liabilities",
+      "Current rate method and AOCI"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pension Trust Funds apply full accrual accounting and the economic resources measurement focus.",
+    "tags": [
+      "pension trust funds"
+    ]
+  }
+]

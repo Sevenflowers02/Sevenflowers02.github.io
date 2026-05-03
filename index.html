@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ink Ledger Study App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="ink-wash" aria-hidden="true"></div>
+  <header class="hero">
+    <nav class="topbar" aria-label="App navigation">
+      <a class="brand" href="#top" aria-label="Ink Ledger home">
+        <span class="seal">IL</span>
+        <span>Ink Ledger</span>
+      </a>
+      <div class="top-actions">
+        <button id="shuffleBtn" class="ghost" type="button">Shuffle</button>
+        <button id="resetBtn" class="ghost" type="button">Reset Progress</button>
+      </div>
+    </nav>
+    <section id="top" class="hero-grid">
+      <div>
+        <p class="eyebrow">Accounting Review · Foreign Currency · Governmental Funds</p>
+        <h1>Study accounting concepts with a calm ink-wash interface.</h1>
+        <p class="lede">Practice key ideas from Chapters 11, 12, 16, and 17 through quizzes, flashcards, search, filters, progress tracking, and saved bookmarks.</p>
+      </div>
+      <aside class="summary-card" aria-label="Study summary">
+        <div class="moon"></div>
+        <p class="summary-title">Question Bank</p>
+        <strong id="totalCount">0</strong>
+        <span>concept checks loaded</span>
+      </aside>
+    </section>
+  </header>
+
+  <main class="shell">
+    <section class="panel controls" aria-label="Study controls">
+      <label>
+        <span>Chapter</span>
+        <select id="chapterFilter"></select>
+      </label>
+      <label>
+        <span>Mode</span>
+        <select id="modeSelect">
+          <option value="quiz">Quiz Mode</option>
+          <option value="flashcard">Flashcard Mode</option>
+        </select>
+      </label>
+      <label class="search-box">
+        <span>Search</span>
+        <input id="searchInput" type="search" placeholder="Search topics, tags, or explanations..." />
+      </label>
+    </section>
+
+    <section class="stats-grid" aria-label="Progress statistics">
+      <article class="stat"><span>Answered</span><strong id="answeredStat">0</strong></article>
+      <article class="stat"><span>Correct</span><strong id="correctStat">0</strong></article>
+      <article class="stat"><span>Accuracy</span><strong id="accuracyStat">0%</strong></article>
+      <article class="stat"><span>Bookmarks</span><strong id="bookmarkStat">0</strong></article>
+    </section>
+
+    <section class="study-layout">
+      <article class="panel study-card" aria-live="polite">
+        <div class="card-meta">
+          <span id="questionPosition">Question 0 of 0</span>
+          <span id="questionChapter">Chapter</span>
+          <span id="questionDifficulty">Level</span>
+        </div>
+        <h2 id="questionPrompt">Loading...</h2>
+        <div id="tagList" class="tag-list"></div>
+        <div id="choices" class="choices"></div>
+        <div id="flashcardAnswer" class="flashcard-answer hidden"></div>
+        <div id="feedback" class="feedback hidden"></div>
+        <div class="card-actions">
+          <button id="prevBtn" type="button" class="secondary">Previous</button>
+          <button id="showAnswerBtn" type="button" class="secondary hidden">Show Answer</button>
+          <button id="bookmarkBtn" type="button" class="secondary">Bookmark</button>
+          <button id="nextBtn" type="button" class="primary">Next</button>
+        </div>
+      </article>
+
+      <aside class="panel review-panel">
+        <div class="panel-heading">
+          <h2>Review Map</h2>
+          <p>Jump to any filtered question.</p>
+        </div>
+        <div id="reviewMap" class="review-map"></div>
+      </aside>
+    </section>
+
+    <section class="panel notes-panel">
+      <div class="panel-heading">
+        <h2>Study Focus</h2>
+        <p id="studyFocus">Select a question to see its explanation after answering.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Designed for a personal website. Upload all four files into the same folder: <code>index.html</code>, <code>style.css</code>, <code>app.js</code>, and <code>questions.json</code>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
